@@ -1,0 +1,12 @@
+{
+	"type":"repository",
+	"version":"master",
+	"dependencies":
+	[
+		{
+			"type":"package",
+			"version":"1.36",
+			"name":"FieloPRP"
+		}		
+	]
+}
