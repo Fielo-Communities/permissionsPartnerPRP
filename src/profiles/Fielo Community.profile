@@ -1440,7 +1440,7 @@
 		<allowDelete>false</allowDelete>
 		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
-		<object>FieloPLT__Invoice__c</object>
+		<object>FieloPRP__Invoice__c</object>
 	</objectPermissions>
 	
 	<objectPermissions>
