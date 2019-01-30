@@ -9,9 +9,9 @@
 			"name":"FieloIncentiveAutomation/fielodeploy"
 		},
 		{
-			"type":"package",
-			"version":"1.36",
-			"name":"FieloPRP"
+			"type":"linkRepository",
+			"version":"master",
+			"name":"Fielo-Apps/fieloprp"
 		}		
 	]
 }
